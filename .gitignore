@@ -1,0 +1,17 @@
+.git/
+.env
+.env.*
+!.env.example
+bd/*.db
+bd/*.sqlite
+bd/*.sqlite3
+bd/*.db-*
+bd/*.tmp
+data/
+*.log
+.DS_Store
+.idea/
+.vscode/
+.DS_Store
+vendor/
+node_modules/
